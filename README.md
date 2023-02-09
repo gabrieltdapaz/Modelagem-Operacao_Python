@@ -12,6 +12,9 @@ Qualquer duvida que tiverem, podem entrar em contato comigo tanto via email, qua
 1. Insta: gabriel_o_dan
 2. Email: gabrieltdapaz@gmail.com
 
+Obs: Sao arquivos direcionados para meu projeto, busque adaptar ao seu e entender a logica usada.
+os "path_out" que eu tirei, sao caminhos ligados diretamente a repositorio nos quais nao podem ser revelados aqui no git_hub.
+
 ### Juntos somos mais fortes!
 
 
