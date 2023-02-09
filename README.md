@@ -1,5 +1,5 @@
 # Scripts em Python 🐍
-## Scripts usados para tratar dados, modelar e operacionalizar em geral.
+## Scripts usados para tratar dados, modelar, operacionalizar e automatizar através do Airflow.
 
 #### Repositorio criado para auxiliar quem esteja comecando a mexer com python na parte de:
 
